@@ -1,7 +1,7 @@
 # Magic-Mirror-Game
 魔镜web小游戏，魔镜占卜h5小游戏，可以在微信，百度，以及头条上运行的小游戏；
 
-有意者TG：@xuzongbin001 或邮箱：masterai918@gmail.com
+有意者购买者联系TG：@xuzongbin001 或邮箱：masterai918@gmail.com
 
 
 ![09](https://github.com/user-attachments/assets/9703a269-522f-4a40-bc98-d0f5d14684d9)

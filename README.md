@@ -1,5 +1,6 @@
 # Magic-Mirror-Game
 魔镜web小游戏，魔镜占卜h5小游戏，可以在微信，百度，以及头条上运行的小游戏；
+本仓库提供了一个完整魔镜占卜h5微信小游戏源码：产品内容有周易占卜姻缘，爱情，工作，爱情相合，运势以及结合人工智能deepseek和chatGPT进行占卜询问
 
 有意者购买者联系TG：@xuzongbin001 或邮箱：masterai918@gmail.com
 

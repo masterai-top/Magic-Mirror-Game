@@ -1,10 +1,37 @@
-# Magic-Mirror-Game
-魔镜web小游戏，魔镜占卜h5小游戏，可以在微信，百度，以及头条上运行的小游戏；
-本仓库提供了一个完整魔镜占卜h5微信小游戏源码：产品内容有周易占卜姻缘，爱情，工作，爱情相合，运势以及结合人工智能deepseek和chatGPT进行占卜询问
+# 🔮 魔镜占卜H5小游戏 | AI占卜+周易 | DeepSeek+ChatGPT双AI
 
-有意者购买者联系TG：@xuzongbin001 或邮箱：masterai918@gmail.com
+> **微信/百度/头条多平台运行 | 姻缘/财运/事业/运势占卜 | 完整Java后端**
+
+[![Contact](https://img.shields.io/badge/联系-TG%3A%40xuzongbin001-blue)](https://t.me/xuzongbin001)
+[![Platform](https://img.shields.io/badge/平台-微信%20%7C%20百度%20%7C%20头条%20%7C%20H5-green)]()
+[![AI](https://img.shields.io/badge/AI-DeepSeek%20%7C%20ChatGPT-orange)]()
+[![Language](https://img.shields.io/badge/后端-Java-red)]()
+
+---
+
+## ✨ 核心特色
+
+| 特色模块 | 说明 |
+| :--- | :--- |
+| 🔮 **魔镜占卜** | 经典魔镜互动，输入问题获得占卜答案 |
+| 💑 **姻缘占卜** | 周易占卜姻缘、爱情相合 |
+| 💰 **财运占卜** | 财运运势分析 |
+| 💼 **事业占卜** | 事业发展预测 |
+| 📈 **运势占卜** | 综合运势分析 |
+| 🤖 **AI占卜** | 集成DeepSeek + ChatGPT双AI |
+| 📱 **多平台** | 微信/百度/头条/H5全覆盖 |
+
+## 🎯 功能清单
+✅ 魔镜占卜 ✅ 姻缘占卜 ✅ 爱情相合
+✅ 财运占卜 ✅ 事业占卜 ✅ 运势分析
+✅ DeepSeek AI ✅ ChatGPT AI ✅ 用户管理
+✅ 占卜记录 ✅ 分享功能 ✅ 海报生成
 
 
+## 📸 界面预览
+
+| 占卜界面 | 结果展示 | 海报分享 |
+| :---: | :---: | :---: |
 ![09](https://github.com/user-attachments/assets/9703a269-522f-4a40-bc98-d0f5d14684d9)
 ![08](https://github.com/user-attachments/assets/e655fb7b-6ded-45a5-be51-c20a6d4ee043)
 
@@ -17,3 +44,28 @@
 ![01](https://github.com/user-attachments/assets/c8d569e7-cfce-4a6e-be8d-546e0c5b821b)
 ![00](https://github.com/user-attachments/assets/0e25ec26-315b-4355-a9cd-62336191400e)
 ![10](https://github.com/user-attachments/assets/d399a977-02bc-4af5-bd2a-348a0275dc25)
+
+> 📷 截图正在整理中，联系我可获取完整演示
+
+🎥 **演示视频**：[联系我获取在线演示](https://t.me/xuzongbin001)
+
+## 💰 获取源码
+
+✅ 完整Java后端源码  
+✅ 完整H5/微信小游戏前端源码  
+✅ 数据库脚本  
+✅ 部署文档  
+✅ AI接口对接文档  
+
+📱 **Telegram：@xuzongbin001**  
+📧 **Email：masterai918@gmail.com**
+
+👉 **联系我获取演示站 + 详细报价**
+
+---
+
+⭐ Star 这个仓库，支持优质AI占卜源码持续分享！
+
+
+
+

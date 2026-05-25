@@ -1,4 +1,4 @@
-# 🔮 魔镜占卜H5小游戏 | AI占卜+周易 |web占卜 |  DeepSeek+ChatGPT双AI
+# 🔮 魔镜占卜H5小游戏 | AI占卜+周易 |web占卜 | 周易排盘| DeepSeek+ChatGPT双AI
 
 > **微信/百度/头条多平台运行 | 姻缘/财运/事业/运势占卜 | 完整Java后端**
 

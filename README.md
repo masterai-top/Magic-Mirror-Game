@@ -1,83 +1,55 @@
-[简体中文](README.md) | [繁體中文](README.zh-TW.md) | [English](README.en.md)
+# 魔镜占卜 H5 小游戏源码
 
-# H5 魔镜占卜与运势应用|web占卜 | 周易排盘
+> AI 占卜 + 周易主题 + 姻缘/财运/事业/运势流程 + Java 后端 + H5 多平台。
 
-> **微信/百度/头条多平台运行 | 姻缘/财运/事业/运势占卜 | 完整Java后端**
+## 项目是什么
 
+这是一个面向 H5、微信/百度/头条等移动场景的魔镜占卜应用源码。用户从魔镜互动或主题入口开始，提交问题，查看占卜结果，保存历史记录并生成分享海报。线上仓库包含 Java 服务端类、三种语言 README 和真实产品截图。
 
-[![Contact](https://img.shields.io/badge/联系-TG%3A%40xuzongbin001-blue)](https://t.me/xuzongbin001)
-[![Platform](https://img.shields.io/badge/平台-微信%20%7C%20百度%20%7C%20头条%20%7C%20H5-green)]()
-[![AI](https://img.shields.io/badge/AI-DeepSeek%20%7C%20ChatGPT-orange)]()
-[![Language](https://img.shields.io/badge/后端-Java-red)]()
+## 主要功能
 
+- 魔镜占卜：以互动镜面作为进入占卜流程的产品入口。
+- 姻缘与爱情相合：围绕感情关系呈现主题结果。
+- 财运、事业、综合运势：按常见咨询场景组织独立流程。
+- AI 接口：线上说明标注 DeepSeek 与 ChatGPT 对接方向，实际密钥与模型参数需自行配置。
+- 用户管理与占卜记录：保存用户操作和历史结果。
+- 海报生成与分享：把结果整理成适合移动端传播的海报。
+- 多平台 H5：适配微信、百度、头条及独立 H5 页面形态。
 
----
+## 玩法流程
 
+1. 选择魔镜、姻缘、财运、事业或运势主题。
+2. 输入问题或按页面提示完成互动。
+3. 阅读结果与解释内容。
+4. 保存记录，生成海报并分享。
 
-## ✨ 核心特色
+## 产品截图
 
+![魔镜占卜界面](docs/assets/screenshots/09.png)
+![占卜结果页面](docs/assets/screenshots/08.png)
+![H5 互动页面](docs/assets/screenshots/07.png)
+![分享海报页面](docs/assets/screenshots/05.png)
 
-| 特色模块 | 说明 |
-| :--- | :--- |
-| 🔮 **魔镜占卜** | 经典魔镜互动，输入问题获得占卜答案 |
-| 💑 **姻缘占卜** | 周易占卜姻缘、爱情相合 |
-| 💰 **财运占卜** | 财运运势分析 |
-| 💼 **事业占卜** | 事业发展预测 |
-| 📈 **运势占卜** | 综合运势分析 |
-| 🤖 **AI占卜** | 集成DeepSeek + ChatGPT双AI |
-| 📱 **多平台** | 微信/百度/头条/H5全覆盖 |
+## 技术组成
 
+- Java 后端服务与用户/操作/海报服务类。
+- H5/多平台前端流程。
+- AI 服务接口适配层。
+- 用户记录、结果展示与分享素材流程。
 
-## 🎯 功能清单
-✅ 魔镜占卜 ✅ 姻缘占卜 ✅ 爱情相合
-✅ 财运占卜 ✅ 事业占卜 ✅ 运势分析
-✅ DeepSeek AI ✅ ChatGPT AI ✅ 用户管理
-✅ 占卜记录 ✅ 分享功能 ✅ 海报生成
+## 在线专题页
 
+- [项目首页](https://masterai-top.github.io/Magic-Mirror-Game/)
+- [魔镜占卜 H5](https://masterai-top.github.io/Magic-Mirror-Game/magic-mirror-divination/)
+- [姻缘与爱情相合](https://masterai-top.github.io/Magic-Mirror-Game/love-fortune/)
+- [AI 占卜接口](https://masterai-top.github.io/Magic-Mirror-Game/ai-divination/)
+- [H5 Java 后端架构](https://masterai-top.github.io/Magic-Mirror-Game/h5-architecture/)
 
-## 📸 界面预览
+## 联系方式
 
+- Telegram: [@xuzongbin001](https://t.me/xuzongbin001)
+- Email: [masterai918@gmail.com](mailto:masterai918@gmail.com)
 
-| 占卜界面 | 结果展示 | 海报分享 |
-| :---: | :---: | :---: |
-![09](https://github.com/user-attachments/assets/9703a269-522f-4a40-bc98-d0f5d14684d9)
-![08](https://github.com/user-attachments/assets/e655fb7b-6ded-45a5-be51-c20a6d4ee043)
+## 合规说明
 
-
-![07](https://github.com/user-attachments/assets/0244393b-0894-485e-94d4-1acaad1cc44b)
-![05](https://github.com/user-attachments/assets/dc518447-0bb5-4d27-b671-f06d720ccc84)
-![03](https://github.com/user-attachments/assets/81f452bb-050b-4f15-ad2d-b8e28867273a)
-
-
-![01](https://github.com/user-attachments/assets/c8d569e7-cfce-4a6e-be8d-546e0c5b821b)
-![00](https://github.com/user-attachments/assets/0e25ec26-315b-4355-a9cd-62336191400e)
-![10](https://github.com/user-attachments/assets/d399a977-02bc-4af5-bd2a-348a0275dc25)
-
-
-
-
-
-🎥 **演示视频**：[联系我获取在线演示](https://t.me/xuzongbin001)
-
-
-## 💰 获取源码
-
-
-✅ 完整Java后端源码  
-✅ 完整H5/微信小游戏前端源码  
-✅ 数据库脚本  
-✅ 部署文档  
-✅ AI接口对接文档  
-
-
-📱 **Telegram：@xuzongbin001**  
-📧 **Email：masterai918@gmail.com**
-
-
-
-
-
----
-
-
-⭐ Star 这个仓库，支持优质AI占卜源码持续分享！
+本项目适合软件开发、产品演示和娱乐内容研究。占卜结果不构成医疗、法律或投资建议，部署时请遵守当地法律、平台规则并保护用户隐私。

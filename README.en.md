@@ -1,80 +1,48 @@
-[简体中文](README.md) | [繁體中文](README.zh-TW.md) | [English](README.en.md)
+# Magic Mirror H5 Source Code
 
-# H5 Magic Mirror Divination Application
+> AI divination + Zhouyi themes + relationship, wealth, career and fortune journeys + Java backend + multi-platform H5.
 
-> **Runs on multiple platforms (WeChat/Baidu/Toutiao) | Divination for Romance, Wealth, Career, and General Fortune | Complete Java Backend**
+## What this project is
 
+Magic Mirror is an H5 divination application for mobile web and mini-program style experiences. A user selects a theme, submits a question, reads the result, saves the history and generates a shareable poster. The repository includes Java service classes, multilingual READMEs and real product screenshots.
 
-[![Contact](https://img.shields.io/badge/联系-TG%3A%40xuzongbin001-blue)](https://t.me/xuzongbin001)
-[![Platform](https://img.shields.io/badge/平台-微信%20%7C%20百度%20%7C%20头条%20%7C%20H5-green)]()
-[![AI](https://img.shields.io/badge/AI-DeepSeek%20%7C%20ChatGPT-orange)]()
-[![Language](https://img.shields.io/badge/后端-Java-red)]()
+## Product capabilities
 
+- Magic mirror interaction as the main entry point.
+- Relationship and love compatibility journeys.
+- Wealth, career and overall fortune themes.
+- DeepSeek and ChatGPT integration direction documented by the online project.
+- User management and divination history.
+- Poster generation and social sharing.
+- H5 delivery for WeChat, Baidu, Toutiao and standalone web pages.
 
----
+## User flow
 
+1. Choose a mirror, relationship, wealth, career or fortune theme.
+2. Enter a question or complete the guided interaction.
+3. Read the result and explanation.
+4. Save the record, generate a poster and share it.
 
-## ✨ Key Features
+## Product screenshots
 
+![Magic Mirror screen](docs/assets/screenshots/09.png)
+![Divination result](docs/assets/screenshots/08.png)
+![H5 interaction](docs/assets/screenshots/07.png)
+![Share poster](docs/assets/screenshots/05.png)
 
-| Feature Module | Description |
-| :--- | :--- |
-| 🔮 **Magic Mirror Divination** | Classic magic mirror interaction; input a question to receive a divination answer |
-| 💑 **Romance Divination** | I Ching-based divination for relationships and love compatibility |
-| 💰 **Wealth Divination** | Analysis of financial luck and fortune |
-| 💼 **Career Divination** | Predictions for career development |
-| 📈 **General Fortune** | Comprehensive fortune analysis |
-| 🤖 **AI Divination** | Integrated Dual AI: DeepSeek + ChatGPT |
-| 📱 **Multi-platform** | Full coverage across WeChat, Baidu, Toutiao, and H5 |
+## Online topic pages
 
+- [Project homepage](https://masterai-top.github.io/Magic-Mirror-Game/)
+- [Magic mirror divination](https://masterai-top.github.io/Magic-Mirror-Game/magic-mirror-divination/)
+- [Relationship fortune](https://masterai-top.github.io/Magic-Mirror-Game/love-fortune/)
+- [AI divination](https://masterai-top.github.io/Magic-Mirror-Game/ai-divination/)
+- [H5 Java architecture](https://masterai-top.github.io/Magic-Mirror-Game/h5-architecture/)
 
-## 🎯 Feature List
-✅ Magic Mirror Divination ✅ Romance Divination ✅ Love Compatibility
-✅ Wealth Divination ✅ Career Divination ✅ Fortune Analysis
-✅ DeepSeek AI ✅ ChatGPT AI ✅ User Management
-✅ Divination History ✅ Sharing Functionality ✅ Poster Generation
+## Contact
 
+- Telegram: [@xuzongbin001](https://t.me/xuzongbin001)
+- Email: [masterai918@gmail.com](mailto:masterai918@gmail.com)
 
-## 📸 Interface Preview
+## Responsible use
 
-
-| Divination Interface | Result Display | Poster Sharing |
-| :---: | :---: | :---: |
-![09](https://github.com/user-attachments/assets/9703a269-522f-4a40-bc98-d0f5d14684d9)
-![08](https://github.com/user-attachments/assets/e655fb7b-6ded-45a5-be51-c20a6d4ee043)
-
-
-![07](https://github.com/user-attachments/assets/0244393b-0894-485e-94d4-1acaad1cc44b)
-![05](https://github.com/user-attachments/assets/dc518447-0bb5-4d27-b671-f06d720ccc84)
-![03](https://github.com/user-attachments/assets/81f452bb-050b-4f15-ad2d-b8e28867273a)
-
-
-![01](https://github.com/user-attachments/assets/c8d569e7-cfce-4a6e-be8d-546e0c5b821b)
-![00](https://github.com/user-attachments/assets/0e25ec26-315b-4355-a9cd-62336191400e)
-![10](https://github.com/user-attachments/assets/d399a977-02bc-4af5-bd2a-348a0275dc25)
-
-
-🎥 **Demo Video**: [Contact me for an online demo](https://t.me/xuzongbin001)
-
-
-## 💰 Get the Source Code
-
-
-✅ Complete Java backend source code
-✅ Complete H5/WeChat Mini Game frontend source code
-✅ Database scripts
-✅ Deployment documentation
-✅ AI API integration documentation
-
-
-📱 **Telegram: @xuzongbin001**
-📧 **Email: masterai918@gmail.com**
-
-
-
-
-
----
-
-
-⭐ Star this repository to support the continued sharing of high-quality AI fortune-telling source code!
+For software development, product demonstration and entertainment research. Divination results are not medical, legal or investment advice. Follow local law, platform rules and privacy requirements.
